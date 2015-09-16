@@ -1,24 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:15:48.805707
+#+DATE: 2015-08-30 20:15:53.471682
 #+TITLE: 合部金光明經
 #+PROPERTY: CBETA_ID T16n0664
 #+PROPERTY: ID KR6i0302
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 16, No. 664
 #+PROPERTY: VOL 16
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0302_T_000-0359b>¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0302_T_001-0359b> ¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.664[Nos.663,665]¶
+No. 664 [Nos. 663, 665]¶
 
-序
-:PROPERTIES:
-:head: 《合部金光明經》序
-:END:
-¶
+《合部金光明經》序¶
 ¶
 
 《金光明經》者，教窮滿字，金鼓擊於夢中，理極¶
@@ -66,13 +62,8 @@ No.664[Nos.663,665]¶
 足，欣躍載深，願此法燈傳之永劫。¶
 ¶
 ¶
-
- 《合部金光明經》
-1序品(一)
-:PROPERTIES:
-:head: 序品第一
-:END:
-¶
+《合部金光明經》
+序品第一¶
 ¶
 隋沙門釋寶貴合¶
 北涼三藏曇無讖譯¶
@@ -191,11 +182,7 @@ No.664[Nos.663,665]¶
 #+END_VERSE
 」¶
 
-2壽量品(一)
-:PROPERTIES:
-:head: 《金光明經》壽量品第二
-:END:
-¶
+《金光明經》壽量品第二¶
 
 爾時，王舍城中有菩薩摩訶薩名曰信相，已¶
 曾供養過去無量億那由他百千諸佛，種諸善
@@ -605,11 +592,7 @@ No.664[Nos.663,665]¶
 時四如來忽然不現，¶
 是大會中惟釋迦在。¶
 
-3三身分別品(一)
-:PROPERTIES:
-:head: 《金光明經》三身分別品第三
-:END:
-¶
+《金光明經》三身分別品第三¶
 梁三藏真諦譯¶
 
 爾時，虛空藏菩薩摩訶薩在大眾中從座而¶
